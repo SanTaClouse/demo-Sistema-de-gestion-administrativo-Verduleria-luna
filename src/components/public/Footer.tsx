@@ -85,7 +85,7 @@ const Footer = () => {
                 <i className="bi bi-telephone-fill"></i> 3476603699
               </li>
               <li className="mb-2">
-                <i className="bi bi-envelope-fill"></i> pablocarrizo120@gmail.com
+                <i className="bi bi-envelope-fill"></i> tucomercio@mail.com
               </li>
               <li className="mb-2">
                 <i className="bi bi-whatsapp"></i> +54 9 347 6603699

@@ -51,9 +51,9 @@ const SucursalesPreview = () => {
             </p>
           </div>
 
-          <Row className="g-4">
+          <Row className="g-4 justify-content-center">
             {sucursales.map((sucursal) => (
-              <Col key={sucursal.id} md={6} lg={3}>
+              <Col key={sucursal.id} md={6} lg={4}>
                 <Card className="h-100 shadow-sm border-0 overflow-hidden hover-card">
                   <Card.Img
                     variant="top"

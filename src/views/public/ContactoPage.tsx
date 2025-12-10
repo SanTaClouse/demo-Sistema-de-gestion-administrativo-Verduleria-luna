@@ -203,10 +203,6 @@ const ContactoPage = () => {
                     <h6 className="fw-bold">Luna 3</h6>
                     <p className="text-muted mb-0">San Juan 810, Maciel</p>
                   </div>
-                  <div>
-                    <h6 className="fw-bold">Luna 4</h6>
-                    <p className="text-muted mb-0">Sarmiento 390, Oliveros</p>
-                  </div>
                 </Card.Body>
               </Card>
 

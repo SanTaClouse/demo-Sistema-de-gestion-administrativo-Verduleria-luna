@@ -74,9 +74,6 @@ const Footer = () => {
               <li className="mb-2">
                 <i className="bi bi-geo-alt-fill"></i> Luna 3: San Juan 810 - Maciel
               </li>
-              <li className="mb-2">
-                <i className="bi bi-geo-alt-fill"></i> Luna 4 : Sarmiento 390 - Oliveros
-              </li>
             </ul>
           </Col>
 

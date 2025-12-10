@@ -17,7 +17,7 @@ const SucursalesPreview = () => {
       nombre: "Luna 1",
       direccion: "Entre Ríos 811 - Maciel",
       whatsapp: "3476603699",
-      imagen: "https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=400&h=300&fit=crop"
+      imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&h=300&fit=crop"
     },
     {
       id: 2,
@@ -33,13 +33,6 @@ const SucursalesPreview = () => {
       whatsapp: "3476603699",
       imagen: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?w=400&h=300&fit=crop"
     },
-    {
-      id: 4,
-      nombre: "Luna 4",
-      direccion: "Sarmiento 390 - Oliveros",
-      whatsapp: "3476603699",
-      imagen: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?w=400&h=300&fit=crop"
-    }
   ];
 
   return (
@@ -54,7 +47,7 @@ const SucursalesPreview = () => {
           <div className="text-center mb-5">
             <h2 className="display-5 fw-bold mb-3">Nuestras Sucursales</h2>
             <p className="lead text-muted">
-              Tres locales en Maciel y uno en Oliveros ofreciendo el mejor servicio
+              3 locales en Maciel ofreciendo el mejor servicio
             </p>
           </div>
 

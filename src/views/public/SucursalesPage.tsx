@@ -32,7 +32,7 @@ const SucursalesPage = () => {
       whatsapp: "3476603699",
       telefono: "(347) 6603699",
       mapsUrl: "https://maps.google.com/?q=Entre+Ríos+811+Maciel+Santa+Fe",
-      imagen: "https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=600&h=400&fit=crop"
+      imagen: "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&h=400&fit=crop"
     },
     {
       id: 2,
@@ -62,20 +62,6 @@ const SucursalesPage = () => {
       mapsUrl: "https://maps.google.com/?q=San+Juan+810+Maciel+Santa+Fe",
       imagen: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?w=600&h=400&fit=crop"
     },
-    {
-      id: 4,
-      nombre: "Luna 4",
-      direccion: "Sarmiento 390 - Olvieros, Santa Fe",
-      horarios: {
-        lunesViernes: "7:00 - 13:00 | 16:00 - 21:00",
-        sabado: "7:00 - 13:00 | 16:00 - 21:00",
-        domingo: "8:00 - 13:00"
-      },
-      whatsapp: "3476603699",
-      telefono: "(347) 6603699",
-      mapsUrl: "https://maps.google.com/?q=Sarmiento+390+Oliveros+Santa+Fe",
-      imagen: "https://images.unsplash.com/photo-1610348725531-843dff563e2c?w=600&h=400&fit=crop"
-    }
   ];
 
   return (
@@ -99,7 +85,7 @@ const SucursalesPage = () => {
         <Container>
           <h1 className="display-4 fw-bold mb-3">Nuestras Sucursales</h1>
           <p className="lead">
-            4 locales en Maciel y Oliveros para estar siempre cerca tuyo
+            3 sucursales en Maciel para estar siempre cerca tuyo
           </p>
         </Container>
       </section>

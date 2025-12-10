@@ -48,7 +48,7 @@ const HomePage = () => {
                   consumo minorista como mayorista.
                 </p>
                 <p className="text-muted">
-                  Con <strong>4 sucursales estratégicamente ubicadas</strong> en Maciel y Oliveros,
+                  Con <strong>3 sucursales estratégicamente ubicadas</strong> en Maciel,
                   estamos siempre cerca para brindarte el mejor servicio. Trabajamos día a día
                   para llevar frescura a tu mesa y a tu negocio.
                 </p>

@@ -1,15 +1,8 @@
-# Verdulería La Luna - robots.txt
+# Sistema de Gestión - DEMO VERSION - robots.txt
+# Este es un sitio de DEMOSTRACIÓN - NO INDEXAR
+
 User-agent: *
-Allow: /
-Allow: /sucursales
-Allow: /mayorista
-Allow: /contacto
+Disallow: /
 
-# Bloquear páginas privadas del backoffice
-Disallow: /ventas
-Disallow: /nuevopedido
-Disallow: /clientes
-Disallow: /login
-
-# Sitemap
-Sitemap: https://laluna123.vercel.app/sitemap.xml
+# Bloquear completamente la indexación
+# Este sitio es solo para demostración de funcionalidades

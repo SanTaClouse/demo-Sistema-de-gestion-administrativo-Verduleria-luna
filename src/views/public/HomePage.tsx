@@ -22,7 +22,7 @@ const HomePage = () => {
         <meta property="og:title" content="Verdulería La Luna - Maciel, Santa Fe" />
         <meta property="og:description" content="3 sucursales con productos frescos y venta mayorista" />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://laluna123.vercel.app"/>
+        <meta name="robots" content="noindex, nofollow" />
       </Helmet>
 
       {/* Hero / Carrusel */}

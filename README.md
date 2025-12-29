@@ -153,14 +153,13 @@ No un software genérico, sino una **solución diseñada específicamente** para
 
 ### 🔑 Acceso a la Demo
 
-**URL:** [DEMO]((https://demo-verduleria-luna-lsy2jwrai-santaclouses-projects.vercel.app/))
+**URL:** [DEMO](https://demo-verduleria-luna-lsy2jwrai-santaclouses-projects.vercel.app/)
 
 **Credenciales:**
 
-| Usuario | Contraseña | Rol |
-|---------|------------|-----|
-| `demo` | `demo123` | Administrador |
-| `vendedor` | `vendedor123` | Vendedor |
+| Usuario    | Contraseña     | Rol           |
+|------------|----------------|---------------|
+| `demo`     | `demo123`      | Administrador |
 
 ### 📦 Datos Pre-cargados
 

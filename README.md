@@ -153,7 +153,7 @@ No un software genérico, sino una **solución diseñada específicamente** para
 
 ### 🔑 Acceso a la Demo
 
-**URL:** [https://laluna123.vercel.app]((https://demo-verduleria-luna-lsy2jwrai-santaclouses-projects.vercel.app/))
+**URL:** [DEMO]((https://demo-verduleria-luna-lsy2jwrai-santaclouses-projects.vercel.app/))
 
 **Credenciales:**
 
